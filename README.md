@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @nikosmantz
-- 👀 I’m interested in Game/Web development and multimedia
-- 🌱 I’m currently learning Game/Web development and multimedia
-- 📫 How to reach me: email: nikosmantz@outlook.com.gr
+Hi, I’m @nikosmantz
+I’m interested in programming and 3d modeling.
+Email: nikosmantz@outlook.com.gr
