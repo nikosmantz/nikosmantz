@@ -1,5 +1,5 @@
-Hi, I’m @nikosmantz
+Hi, I’m Nikolaos
 
-I’m interested in programming and 3d modeling.
+I’m interested in web and app development.
 
-Email: nikosmantz@outlook.com.gr
+Email: nikosmantzz2@gmail.com
